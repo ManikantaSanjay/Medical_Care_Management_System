@@ -1,6 +1,8 @@
 # Medical_Care_Management_System
 ## 1️⃣Description:
-This is a academic project created as part of my coursework for the subject "DATABASE MANAGEMENT SYSTEM" (17CS53) during the 5th semester of my bachelors at JSSATE,Bangalore . It helps in performing Scheduling appointments, Monitoring pharmacy inventory, Prescription of medication, Booking appointments etc.
+This is a academic project created as part of my coursework for the subject "DATABASE MANAGEMENT SYSTEM" (17CS53) during the 5th semester of my bachelors at JSSATE,Bangalore . 
+
+It helps in performing Scheduling appointments, Monitoring pharmacy inventory, Prescription of medication, Booking appointments etc.
 
 It contains the following modules ->
 * Doctor Module 
