@@ -1,4 +1,4 @@
-# Medical_Care_Management_System
+# MedCare - Medical_Care_Management_System
 ## 1️⃣Description:
 This is a academic project created as part of my coursework for the subject "DATABASE MANAGEMENT SYSTEM" (17CS53) during the 5th semester of my bachelors at JSSATE,Bangalore . 
 
